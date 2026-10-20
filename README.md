@@ -1,0 +1,1 @@
+# ADG-Pangle-iOS-Adapter

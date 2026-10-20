@@ -1,0 +1,3 @@
+//
+//  ADG-Pangle-iOS-Adapter
+//
