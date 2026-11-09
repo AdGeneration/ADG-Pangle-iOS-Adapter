@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/bytedance/AdsGlobalPackage",
-            exact: "8.4.0-release.5"
+            exact: "8.4.0-release.7"
         ),
     ],
     targets: [
@@ -36,8 +36,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGPangleAdapter",
-            url: "https://github.com/AdGeneration/ADG-Pangle-iOS-Adapter/releases/download/8.4.500/ADGPangle.xcframework.zip",
-            checksum: "610990ac51119200d25a408ab44de088fd4501e06f17213d18bfbc303ebfe362"
+            url: "https://github.com/AdGeneration/ADG-Pangle-iOS-Adapter/releases/download/8.4.700/ADGPangle.xcframework.zip",
+            checksum: "2ba56034d729854f0fd23681c7001568d0649a809a87f720516a57e124a1163c"
         ),
     ]
 )
